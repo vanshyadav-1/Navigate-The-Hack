@@ -114,7 +114,7 @@ flutter test             # Run tests
 
 | Home Screen | Story Detail | Comments Section |
 |:---:|:---:|:---:|
-| <img src="screenshots/home.png" width="250"> | <img src="screenshots/detail.png" width="250"> | <img src="screenshots/comments.png" width="250"> |
+| <img src="home.png" width="250"> | <img src="detail.png" width="250"> | <img src="comments.png" width="250"> |
 
 ---
 
